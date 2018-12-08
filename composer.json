@@ -1,0 +1,13 @@
+{
+    "name": "safa/zn-mixer",
+    "description": "This repository was created to mix the 'ZN Framework' and vue js.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ogeday26",
+            "email": "thzbr@windowslive.com"
+        }
+    ],
+    "require": {}
+}
