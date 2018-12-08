@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{{(getenv('PRODUCTION') == 'development') ? 'http://localhost:8080/css/style.css': '#'}}">
